@@ -1,0 +1,5 @@
+Hangman to do list:
+1. Implement user input validation
+2. Implement GUI
+3. add new versions/word sets
+4. make runnable/downloadable version of the game
